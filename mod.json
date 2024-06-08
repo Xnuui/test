@@ -1,0 +1,10 @@
+{
+    "name": "Mindtest01",
+    "displayName": "Mindetst01 - TexturePack",
+    "author": "eeeeeeeee",
+    "description": "test",
+    "version": "0.0.1",
+    "hidden": true,
+    "minGameVersion": "146",
+    "dependencies": []
+  }
